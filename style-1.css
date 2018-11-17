@@ -1,0 +1,33 @@
+body {
+    direction: rtl;
+    background-color: #eeeeee;
+    font-family: "Arial";
+    font-size: 16px;
+    line-height: 1.4;
+}
+
+h1 {
+    font-size: 4em;
+    line-height: 1;    
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 2em;
+    line-height: 1.2;
+}
+
+span.caption {
+    font-size: 0.8em;
+}
+
+p.credit {
+    font-size: 0.75em;
+    letter-spacing: 0.05em;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #2c44ac;
+}
